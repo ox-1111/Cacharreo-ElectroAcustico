@@ -16,7 +16,7 @@ Asimtria.org | La Jaquer Es Cool
   2 Cables 
   1 Plug  de 1/4
   
-  ![Piezo Conexion]()
+  ![Piezo Conexion](https://github.com/Noisk8/Cacharreo-ElectroAcustico/blob/master/piezo-directo.jpg)
  
 2 Construcción de Amplificador e Hidrofono.
 
