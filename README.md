@@ -12,9 +12,9 @@ Asimtria.org | La Jaquer Es Cool
  
  Materiales 
  
-  1 Piezo
-  2 Cables 
-  1 Plug  de 1/4
+  * 1 Piezo
+  * 2 Cables 
+  * 1 Plug  de 1/4
   
   ![Piezo Conexion](https://github.com/Noisk8/Cacharreo-ElectroAcustico/blob/master/piezo-directo.jpg)
  
@@ -24,13 +24,13 @@ Asimtria.org | La Jaquer Es Cool
 
 Materiales.
 
-1 Circuiti Integrado Lm386 
-1 Condensador Ceramico de 104 nf
-1 Condensador Electrolitico 470 uf
-1 Portapila de 9V 
-1 Placa de cobre agujerada
-4 Cables
-2 Jack hembra
+* 1 Circuiti Integrado Lm386 
+* 1 Condensador Ceramico de 104 nf
+* 1 Condensador Electrolitico 470 uf
+* 1 Portapila de 9V 
+* 1 Placa de cobre agujerada
+* 4 Cables
+* 2 Jack hembra
 
 ![Esquematico]()
 
@@ -39,7 +39,7 @@ Materiales.
 
 Materiales.
 
-1 Piezo electrico con plug 
-2 Laminas de Acrilico 
-Silicona 
+* 1 Piezo electrico con plug 
+* 2 Laminas de Acrilico 
+* Silicona 
 
