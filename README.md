@@ -15,6 +15,8 @@ Asimtria.org | La Jaquer Es Cool
   1 Piezo
   2 Cables 
   1 Plug  de 1/4
+  
+  ![Piezo Conexion]()
  
 2 Construcción de Amplificador e Hidrofono.
 
@@ -29,6 +31,8 @@ Materiales.
 1 Placa de cobre agujerada
 4 Cables
 2 Jack hembra
+
+![Esquematico]()
 
 
 2.2 Con la premisa del piezo electrico adaptamos un par de componentes para usar el piezo como hidrofono.
