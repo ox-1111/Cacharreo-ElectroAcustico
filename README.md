@@ -32,7 +32,12 @@ Materiales.
 * 4 Cables
 * 2 Jack hembra
 
-![Esquematico]()
+![Esquematico](https://github.com/Noisk8/Cacharreo-ElectroAcustico/blob/master/Ampli-peque.png)
+
+La función de este circuito consiste en amplificar a traves del (OUT) las señasle que recibe por de el (IN)
+C+omo podemos observar en el esquematico el pin 3 está dispuesto para recibir señal, en nuestro caso del piezoelectríco, y el pin 5 es el encargado de amplificar, por lo tando debe de ser conectado al parlante o sistema de amplificación.
+
+En este caso vamos a colocar jacks embras de un cuarto en los pines 3 y 5.
 
 
 2.2 Con la premisa del piezo electrico adaptamos un par de componentes para usar el piezo como hidrofono.
